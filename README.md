@@ -1,5 +1,5 @@
 # CMIP5_variable_table
-CSV info sheet of variables in CMIP5 simulations
+CSV info sheet of variables in the Coupled Model Intercomparison Project 5 (CMIP5)
 
 All data from standard_output.xls available at https://pcmdi.llnl.gov/mips/cmip5/datadescription.html
 
