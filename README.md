@@ -1,7 +1,7 @@
 # CMIP5_variable_table
 CSV info sheet of variables in the Coupled Model Intercomparison Project 5 (CMIP5)
 
-All data from standard_output.xls available at https://pcmdi.llnl.gov/mips/cmip5/datadescription.html
+All data scraped from standard_output.xls available at https://pcmdi.llnl.gov/mips/cmip5/datadescription.html
 
 Consolidated into a single csv for easier querying. Data is included for the following columns:
 
